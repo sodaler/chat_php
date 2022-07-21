@@ -1,0 +1,86 @@
+.w-400 {
+    width: 400px;
+}
+
+.fs-xs {
+    font-size: 1rem;
+}
+
+.w-10 {
+    width: 10%;
+}
+
+.w-15 {
+    width: 15%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.fs-big {
+    font-size: 5rem !important;
+}
+
+.fs-sm {
+    font-size: 1.4rem;
+}
+
+.online {
+    width: 10px;
+    height: 10px;
+    background: green;
+    border-radius: 50%;
+}
+
+small {
+    color: #bbb;
+    font-size: 0.7rem;
+    text-align: right;
+}
+
+.chat-box {
+    overflow-y: auto;
+    overflow-x: hidden;
+    max-height: 40vh;
+}
+
+.rtext {
+    width: 66%;
+    background: #f8f9fa;
+    color: #444;
+}
+
+.ltext {
+    width: 66%;
+    background: #3289c8;
+    color: #fff;
+}
+
+textarea {
+    resize: none;
+    border-radius: 5px;
+}
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 5px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #aaa;
+    border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #3289c8;
+}
+
+
